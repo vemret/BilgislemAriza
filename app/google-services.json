@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "477590193457",
+    "firebase_url": "https://bilgislem-ariza-8c60b.firebaseio.com",
+    "project_id": "bilgislem-ariza-8c60b",
+    "storage_bucket": "bilgislem-ariza-8c60b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:477590193457:android:7126e22840eecac5",
+        "android_client_info": {
+          "package_name": "com.example.vahitemretellier.bilgislemariza"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "477590193457-gaoa94mugmqhi58aeo0jccjfat6uru9r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.vahitemretellier.bilgislemariza",
+            "certificate_hash": "f278a88b2ed06039c2d39031215b4a0b4d352fe4"
+          }
+        },
+        {
+          "client_id": "477590193457-efs6pa6m8g9fcg7cig0e37msrekte1rf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQUNhzCPdQP6x0IWrel2tbbyVyCQjNFKE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "477590193457-efs6pa6m8g9fcg7cig0e37msrekte1rf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
